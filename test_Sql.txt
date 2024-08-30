@@ -1,0 +1,4 @@
+SELECT ALL FROM Etudiants WHERE promotion = L3_LMD;
+INSERT INTO Etudiants (nom, promotion) 
+VALUES ('KIMBUNGU SIMEON', 30),
+VALUES ('KALEMBU MASIRIKA, 20);
